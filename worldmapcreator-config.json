@@ -1,0 +1,9 @@
+{
+    "selected_countries": "wosm-countries-202408.txt",
+    "shapefile": "geoBoundariesCGAZ_ADM0.shp",
+    "background_color": "darkblue",
+    "unselected_color": "lightgrey",
+    "selected_color": "#602497",
+    "edge_color": "white",
+    "output_svg_file": "wosm_countries_map.svg"
+}
